@@ -1,9 +1,0 @@
-The following packages are required to run our code:
-1.Pandas
-2.Numpy
-3.surprise
-4.random
-5.time
-6.matplotlib
-7.scipy
-8.collections
