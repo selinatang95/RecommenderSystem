@@ -16,7 +16,7 @@
 
 ## Contents:
 
-AmazonAppReview.csv: Data file  
+AmazonAppReview.csv: Data file can be accessed through this link https://drive.google.com/file/d/1F0lMOwRTiLBedkMPjjGosH0POF6dgwF5/view?usp=sharing.
 
 Data cleaning & Contend based clustering.ipynb: Cleans the AmazonAppReview.csv file and cluster categories through NLP and PCA Featrue extraction.
 KNN With LSH.ipynb: LSH Algorithm Implementation and Evaluation.
