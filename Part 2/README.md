@@ -27,3 +27,13 @@ PMF.ipynb: PMF Algorithm Implementation and Evaluation.
 FM_Model.ipynd: FM Model Implementation and Evaluation.
 
 Hybrid model & evaluation.ipynb: Hybrid model evaluation.
+
+Intermediate Data Folder:
+
+description.csv: Items listed with Index and Description
+
+data.pickle: Dictionary of NLP Category Clustering with Item Index
+
+test_in_categoty.csv: In-category Prediction Scores of three models for a subset of AmazonAppReview data. The format is (User, Item, Predicted, Observation). [Shown Report Section 3.4.2 Hybrid Model Evaluation]
+
+test_cross_categoty.csv: Cross-category Prediction Scores of three models for a subset of AmazonAppReview data. The format is (User, Category, Predicted, Observation). [Shown Report Section 3.4.2 Hybrid Model Evaluation]
