@@ -48,10 +48,14 @@
   
   https://drive.google.com/open?id=15_HvX1kBtpQjqbV-DKXKE2zN-AydE0MB
    
-  PMF_in_category_result.csv.zip:PMF In Category Prediction 
+  PMF_in_category_result.csv.zip: PMF In Category Prediction 
   
   https://drive.google.com/open?id=1pJV8XxcenqOk8U_UZNb63011d3EYCYI3
 
   FM Model Intermidate Prediction: In-Category & Cross-Category Prediction
   
   https://drive.google.com/file/d/1HldijujIP70UNzPjzjsxF5QYhkMWYotK/view?usp=sharing
+  
+  KNNWithLSH_in_category_result.csv.zip: KNN With LSH Model In-Category Prediction
+
+  https://drive.google.com/open?id=1GhTgxcIjFZYYDapz0bcCQkEyqOhk5Lnj
