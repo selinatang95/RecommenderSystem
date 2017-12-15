@@ -1,0 +1,25 @@
+Columbia University E4571 Personalization: Theory & Application
+
+Project Part 2 - Modern Personalization Frameworks and Algorithms
+
+Software Package Requirement:
+
+python 2.7 is used for KNN With LSH.ipynb and PMF.ipynb. 
+python 3 is used for Data cleaning & Contend based clustering.ipynb and Hybrid model & evaluation.ipynb.
+
+The packages include: 
+csv
+datasketch
+math
+matplotlib
+nltk
+numpy
+pandas
+pickle
+random
+re
+scipy
+sklearn
+time
+warnings
+
