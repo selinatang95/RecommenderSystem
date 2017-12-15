@@ -24,4 +24,6 @@ KNN With LSH.ipynb: LSH Algorithm Implementation and Evaluation.
 
 PMF.ipynb: PMF Algorithm Implementation and Evaluation.
 
+FM_Model.ipynd: FM Model Implementation and Evaluation.
+
 Hybrid model & evaluation.ipynb: Hybrid model evaluation.
