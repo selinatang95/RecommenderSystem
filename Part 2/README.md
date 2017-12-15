@@ -16,19 +16,21 @@
 
 ## Contents:
 
-AmazonAppReview.csv: Data file can be accessed through this link https://drive.google.com/file/d/1F0lMOwRTiLBedkMPjjGosH0POF6dgwF5/view?usp=sharing.
++ AmazonAppReview.csv: Data file can be accessed through this link https://drive.google.com/file/d/1F0lMOwRTiLBedkMPjjGosH0POF6dgwF5/view?usp=sharing.
 
-Data cleaning & Contend based clustering.ipynb: Cleans the AmazonAppReview.csv file and cluster categories through NLP and PCA Featrue extraction.
++ Data cleaning & Contend based clustering.ipynb: Cleans the AmazonAppReview.csv file and cluster categories through NLP and PCA Featrue extraction.
 
-KNN With LSH.ipynb: LSH Algorithm Implementation and Evaluation.
++ KNN With LSH.ipynb: LSH Algorithm Implementation and Evaluation.
 
-PMF.ipynb: PMF Algorithm Implementation and Evaluation.
++ PMF.ipynb: PMF Algorithm Implementation and Evaluation.
 
-FM_Model.ipynd: FM Model Implementation and Evaluation.
++ FM_Model.ipynd: FM Model Implementation and Evaluation.
 
-Hybrid model & evaluation.ipynb: Hybrid model evaluation.
++ Hybrid model & evaluation.ipynb: Hybrid model evaluation.
 
-Intermediate Data Folder:
++ Recommendation System for Amazon Apps.pdf: Project Report.
+
++ Intermediate Data Folder:
 
   description.csv: Items listed with Index and Description
 
