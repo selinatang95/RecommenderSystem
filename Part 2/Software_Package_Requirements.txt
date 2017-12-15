@@ -22,4 +22,6 @@ scipy
 sklearn
 time
 warnings
-
+itertools
+fastFM
+pylibfm
